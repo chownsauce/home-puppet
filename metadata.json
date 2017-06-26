@@ -1,0 +1,15 @@
+{
+  "name": "puppet-home",
+  "version": "0.1.0",
+  "author": "me",
+  "summary": "puppet-home",
+  "license": "Apache-2.0",
+  "source": "github",
+  "project_page": "github",
+  "issues_url": "github",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
